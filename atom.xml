@@ -4,7 +4,7 @@
   <title><![CDATA[Caramboo Geek Stuff]]></title>
   <link href="http://caramboo.github.com/atom.xml" rel="self"/>
   <link href="http://caramboo.github.com/"/>
-  <updated>2012-12-10T21:35:29+00:00</updated>
+  <updated>2012-12-10T21:37:20+00:00</updated>
   <id>http://caramboo.github.com/</id>
   <author>
     <name><![CDATA[Dave Naylor]]></name>
@@ -23,6 +23,9 @@
 <p>And so is this.</p>
 
 <p><img src="http://placekitten.com/660/200"></p>
+
+<blockquote><p>There is only so much cheesecake in the world.  There is plenty of cheese.</p><footer><strong>Dave Naylor</strong> <cite>A Short History of Life</cite></footer></blockquote>
+
 ]]></content>
   </entry>
   
